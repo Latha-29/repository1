@@ -1,4 +1,4 @@
 # repository1
 first project
 
-# introduction to git
+# introduction to gits
